@@ -348,13 +348,28 @@ li :hover {
 }
 
 .youtube {
-  display: flex;
-  justify-content: center;
-    width:"560";
-  height:"315";
+    width: 800px;
+    height: 500px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 
 
 }
+
+.video-containerr {
+    display: flex;
+    flex-direction: column;
+    /* 🔥 força ficar em coluna */
+    align-items: center;
+    /* centraliza horizontalmente */
+    gap: 10px;
+    /* espaço entre os vídeos */
+    padding: 20px;
+    /* centraliza na vertical ocupando a tela toda */
+
+}
+
 
 
 
