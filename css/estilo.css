@@ -348,13 +348,14 @@ li :hover {
 }
 
 .youtube {
-  display: block;
+  display: flex;
+  justify-content: center;
     width:"560";
   height:"315";
-  margin: 0 auto;
 
 
 }
+
 
 
 
