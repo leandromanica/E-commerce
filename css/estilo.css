@@ -346,4 +346,11 @@ li :hover {
     z-index: 1;
     list-style: none;
 
+
+}
+
+.youtube { 
+ display: flex;
+  justify-content: center; /* centraliza na horizontal */
+  align-items: center;     /* centraliza na vertical */
 }
