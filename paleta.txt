@@ -1,0 +1,6 @@
+--texto: #061a62;
+--fundo: #ffffff;
+--primário: #2f27ce;
+--secundário: #29f9f6;
+--acento: #f91c1c;
+#AC3830 vermelho m
