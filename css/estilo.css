@@ -350,7 +350,8 @@ li :hover {
 }
 
 .youtube { 
- display: flex;
+
   justify-content: center; /* centraliza na horizontal */
   align-items: center;     /* centraliza na vertical */
 }
+
