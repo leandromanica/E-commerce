@@ -349,9 +349,13 @@ li :hover {
 
 .youtube {
   display: block;
+    width="560";
+  height="315";
   margin: 0 auto;
 
+
 }
+
 
 
 
