@@ -350,8 +350,10 @@ li :hover {
 }
 
 .youtube { 
-
+  display: flex;
   justify-content: center; /* centraliza na horizontal */
   align-items: center;     /* centraliza na vertical */
+  min-height: 100vh;       /* opcional: ocupa altura da tela */
 }
+
 
