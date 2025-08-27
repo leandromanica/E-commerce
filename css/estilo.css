@@ -353,22 +353,17 @@ li :hover {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-
-
 }
 
 .video-containerr {
     display: flex;
-    flex-direction: column;
-    /* 🔥 força ficar em coluna */
+    flex-direction:column;
     align-items: center;
-    /* centraliza horizontalmente */
     gap: 10px;
-    /* espaço entre os vídeos */
     padding: 20px;
-    /* centraliza na vertical ocupando a tela toda */
 
 }
+
 
 
 
